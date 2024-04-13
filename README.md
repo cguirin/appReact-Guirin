@@ -19,7 +19,7 @@ Este proyecto esta basado en un ecommerce llamado Semimarket,donde trata de un m
 - [Firebase](https://firebase.google.com/): utilizada como base de datos del proyecto
 - [React Router Dom](https://firebase.google.com/): libreria de navegación por rutas
 
-** Desarrollado por Carla Guirin** 😊
+**Desarrollado por Carla Guirin* 😊
 
 
 
