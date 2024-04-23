@@ -16,7 +16,7 @@ function Navegador() {
 
   return (
     <div>
-      <h1 className="text-center mt-3" lang="en" style={{ color: 'limegreen', fontFamily: 'cursive', padding: '10px' }}>SEMIMARKET</h1>
+      <h1 className="text-center mt-3" lang="en" style={{ color: 'limegreen', fontFamily: 'cursive', padding: '10px' }}>DexterSeed</h1>
       <Navbar expand="lg" className="bg-body-tertiary Navegador">
         <Container>
           <Navbar.Brand as={NavLink} to='/' className="d-flex justify-content-center">

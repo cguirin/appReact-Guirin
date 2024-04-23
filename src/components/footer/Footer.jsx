@@ -30,7 +30,7 @@ const Footer = () => {
                 </Row>
                 <Row>
                     <Col xs={12} className="text-center mt-2">
-                        <p className="footer-text mb-2">© 2024 - SemiMarket</p>
+                        <p className="footer-text mb-2">© 2024 - DexterSeed</p>
                     </Col>
 
                 </Row>

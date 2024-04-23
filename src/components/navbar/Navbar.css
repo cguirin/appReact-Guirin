@@ -1,11 +1,23 @@
-.Navegador {
-    background-color: rgba(5, 7, 12, 0.8) !important; 
-    color:white;
-  }
+.navbar {
+  background-color: transparent !important;
+  backdrop-filter: blur(10px);
+}
 
-  .semas-dropdown {
-    color: white;
-  }
+.navbar-brand img {
+  transition: transform 0.3s ease-in-out;
+}
+
+.navbar-brand img:hover {
+  transform: scale(1.1);
+}
+
+.navbar-nav .nav-link {
+  color: white !important;
+}
+
+.navbar-toggler-icon {
+  background-color: white;
+}
   
  
 

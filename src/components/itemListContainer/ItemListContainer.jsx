@@ -44,11 +44,11 @@ function ItemListContainer({ greeting }) {
       
       <div>
         {categoryId ? (
-          <h1 className='fst-italic text-success'>
-            {greeting} <span style={{ color: 'green' }}>{categoryId}</span>
+          <h1 style ={{color:'yellowgreen'}} className='fst-italic'>
+            {greeting} <span style={{ color: 'grey' }}>{categoryId}</span>
           </h1>
         ) : (
-          <h1 className='fst-italic text-success'>{greeting}</h1>
+          <h1 style ={{color:'yellowgreen'}} className='fst-italic'>{greeting}</h1>
         )}
 
         <ItemList productos={productos} />
